@@ -4,17 +4,20 @@
     "url": "https://vikonad.com",
     "icon": "https://icons.duckduckgo.com/ip3/vikonad.com.ico",
     "slug": "vikonad-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1169,
-    "timeDay": 678,
-    "timeWeek": 1169,
-    "timeMonth": 1169,
-    "timeYear": 1169,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "96.19%",
+    "uptimeDay": "80.25%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "96.19%",
+    "uptimeYear": "96.19%",
+    "time": 1159,
+    "timeDay": 658,
+    "timeWeek": 1159,
+    "timeMonth": 1159,
+    "timeYear": 1159,
+    "dailyMinutesDown": {
+      "2026-11-12": 218,
+      "2026-11-11": 66
+    }
   }
 ]
